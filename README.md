@@ -2,8 +2,17 @@
 
 ![Pumas BE Course](https://img.shields.io/badge/Pumas-Bioequivalence-blue)
 ![Julia](https://img.shields.io/badge/Julia-1.9+-purple)
+![Pumas](https://img.shields.io/badge/Platform-Pumas%20AI-5E2CA5)
+![StatsPlots](https://img.shields.io/badge/Plots-StatsPlots-4CAF50)
+![Bioequivalence](https://img.shields.io/badge/Topic-Bioequivalence-green)
+![Crossover Design](https://img.shields.io/badge/Design-Crossover-orange)
+![Parallel Design](https://img.shields.io/badge/Design-Parallel-orange)
+![TOST](https://img.shields.io/badge/Method-TOST-yellow)
+![Confidence Intervals](https://img.shields.io/badge/Analysis-90%25%20CI-lightgrey)
+![Statistical Power](https://img.shields.io/badge/Concept-Statistical%20Power-purple)
 ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
+![Banner](banner.png)
 
 ---
 
