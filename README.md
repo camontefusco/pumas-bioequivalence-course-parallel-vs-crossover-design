@@ -99,23 +99,6 @@ These plots visually demonstrate:
 
 ---
 
-## 🔗 Connection to Other Course Projects
-
-This project connects directly to:
-
-- **Project 2 — Reference Scaling & NTID**  
-  Explains regulatory alternatives when variability is high.
-
-- **Project 3 — Power & Sample Size Determination**  
-  Quantifies how CV drives sample size requirements.
-
-- **Project 4 — Tmax Nonparametric Analysis**  
-  Highlights that not all endpoints are suitable for parametric inference.
-
-Together, these projects form a **coherent bioequivalence analytics portfolio**.
-
----
-
 ## ▶️ How to Run
 
 ```bash
